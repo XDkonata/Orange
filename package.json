@@ -1,0 +1,31 @@
+{
+  "author": "GAO WEI YAO <warm_sun_konata@163.com>",
+  "name": "nodejs-study-demo",
+  "description": "study demo",
+  "keywords": [
+    "demo",
+    "REST"
+  ],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XDkonata/study-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XDkonata/study-demo/issues"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.11.1"
+  },
+  "dependencies": {
+    "restify": "7.1.0"
+  },
+  "optionalDependencies": {
+    "restify": "7.1.0"
+  },
+  "devDependencies": {
+    "restify": "7.1.0"
+  },
+  "license": "Apache-2.0"
+}
